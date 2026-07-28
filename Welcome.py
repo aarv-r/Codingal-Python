@@ -1,0 +1,6 @@
+print("Welcome to python!")
+print("We have learnt ", 2 , " topics in python.")
+print("I am in year 11 as of now \n I am graduating in 2027.")
+print("My hobbies are \nplaying cricket \ndrawing \nand sleeping.")
+print("I wish to travel the world", end=" ")
+print("And experience different cultures.") 
