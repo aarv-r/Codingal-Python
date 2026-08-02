@@ -1,0 +1,6 @@
+print ("In the morning I rest an extra", 10, " minutes.")
+print ("after i rest, I wake up and brush my teeth, eat breakfast and go to school.")
+print ("Affter I finish school I come back and sleep for a while.")
+print ("after i finish sleeping I study for a while.")
+print ("after I finish studying I eat dinner")
+print ("after I eat dinner I brush my teeth and go to sleep.")
