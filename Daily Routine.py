@@ -1,0 +1,1 @@
+print ("In the morning I rest an extra", 10, " minutes .")
