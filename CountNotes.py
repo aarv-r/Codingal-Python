@@ -1,0 +1,19 @@
+amount=int(input("Enter amount"))
+a=amount//100
+amount=amount%100
+b=amount//50
+amount=amount%50
+c=amount//10
+amount=amount%10
+d=amount//5
+amount=amount%5
+e=amount//2
+amount=amount%2
+f=amount//1
+amount=amount%1
+print("100 notes =", a)
+print("50 notes =", b)
+print("10 notes =", c)
+print("5 notes =", d)
+print("2 notes=", e)
+print("1 notes -", f)
