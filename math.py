@@ -1,0 +1,10 @@
+import math
+print (math.isnan(12.2))
+print (math.floor(29.5))
+print (math.ceil(33.4))
+print (math.factorial(7))
+print(math.sqrt(49))
+print(math.pow(2,3))
+print(math.gcd(12,15))
+print(math.copysign(3,-1))
+print(math.fabs(-5))
