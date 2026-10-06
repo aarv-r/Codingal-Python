@@ -1,0 +1,12 @@
+a=["banana", "apple", "orange"]
+print(a)
+print(type(a))
+print(len(a))
+a.append("grapes")
+print(a)
+a.insert(0, "kiwi")
+print(a)
+a.remove("orange")
+print(a)
+a.pop(2)
+print(a)
