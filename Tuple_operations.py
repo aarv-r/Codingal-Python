@@ -1,0 +1,7 @@
+a=("Aarav", 2, 3, 4, 5, False)
+print(a)
+print(type(a))
+print(len(a))
+a = a + ("hello",  )
+print(a)
+print(a[0][3])
